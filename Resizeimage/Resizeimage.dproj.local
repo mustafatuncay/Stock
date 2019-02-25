@@ -1,0 +1,8 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<BorlandProject>
+	<Transactions>
+    <Transaction>2016.01.03 03:23:04.560.dproj,G:\Delphi\Programlar\Remax\Resizeimage\Project1.dproj=G:\Delphi\Programlar\Remax\Resizeimage\Resizeimage.dproj</Transaction>
+    <Transaction>2016.01.03 03:24:07.540.pas,G:\Delphi\Programlar\Remax\Resizeimage\Unit1.pas=G:\Delphi\Programlar\Remax\Resizeimage\UntResizeimage.pas</Transaction>
+    <Transaction>2016.01.03 03:24:07.540.dfm,G:\Delphi\Programlar\Remax\Resizeimage\Unit1.dfm=G:\Delphi\Programlar\Remax\Resizeimage\UntResizeimage.dfm</Transaction>
+  </Transactions>
+</BorlandProject>

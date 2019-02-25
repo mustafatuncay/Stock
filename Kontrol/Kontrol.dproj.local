@@ -1,0 +1,12 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<BorlandProject>
+	<Transactions>
+    <Transaction>2011/04/08 10:46:34.611.pas,C:\Users\comp\Documents\RAD Studio\Projects\Unit1.pas=D:\Folder Lock\Locker\delphi\programlar\Gennus Turizm\Kontrol\UntKontrol.pas</Transaction>
+    <Transaction>2011/04/08 10:46:34.611.dfm,C:\Users\comp\Documents\RAD Studio\Projects\Unit1.dfm=D:\Folder Lock\Locker\delphi\programlar\Gennus Turizm\Kontrol\UntKontrol.dfm</Transaction>
+    <Transaction>2011/04/08 10:46:41.444.dproj,C:\Users\comp\Documents\RAD Studio\Projects\Project1.dproj=D:\Folder Lock\Locker\delphi\programlar\Gennus Turizm\Kontrol\Kontrol.dproj</Transaction>
+    <Transaction>2013/04/17 12:15:20.712.pas,D:\Folder Lock\Locker\delphi\programlar\BritishRentACar\UntReservation2.pas=</Transaction>
+    <Transaction>2013/04/17 12:15:20.712.dfm,D:\Folder Lock\Locker\delphi\programlar\BritishRentACar\UntReservation2.dfm=</Transaction>
+    <Transaction>2013/04/17 14:43:47.685.pas,D:\Folder Lock\Locker\delphi\programlar\BritishRentACar\UntTimeTable.pas=</Transaction>
+    <Transaction>2013/04/17 14:43:47.685.dfm,D:\Folder Lock\Locker\delphi\programlar\BritishRentACar\UntTimeTable.dfm=</Transaction>
+  </Transactions>
+</BorlandProject>
